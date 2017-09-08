@@ -1,0 +1,80 @@
+body {
+    background-image:url("http://thebeerchronicles.com/wp-content/uploads/2015/03/cropped-hero_02-1.jpg");
+	background-color:#8b0000;
+}
+
+.search_box {
+    width: 40%;
+    min-height: 60px;
+    height: 330px;
+    background-color: #f0f8ff;
+    margin: 40px 90px 15px ;
+    padding: 10px;
+    background-repeat: no-repeat;
+	
+	
+}
+
+.search_icon {
+    
+    width: 5px;
+    height: 25px;
+    font-size: 20px;
+    
+}
+
+.search_type {
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 10px;
+	background-color: #f0f8ff;
+}
+
+.search_header {
+    width: 90px;
+    padding-left: 5px;
+}
+
+.search_area {
+    border-collapse: collapse;
+    width: 90%;
+    margin: auto auto auto auto;
+    text-align: left;
+}
+
+.search_input {
+    width: 100%;
+	padding: 10px;
+}
+
+#table_result {
+    width: 90%;
+    margin: 50px auto auto auto;
+    padding: 20px;
+    
+}
+
+.btn_search {
+    color: white;
+    padding: 10px 70px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 6px 290px 3px;
+	background-color: #1e90ff; 
+    color: black; 
+    border: 3px solid #00ffff;
+	border-radius: 5px;
+	font-weight: bold;
+}
+.btn_search:hover{
+	background-color: #191970;
+    color: white;
+	font-weight: bold;
+}
+
+.button_search {
+    width: 100%;
+}
